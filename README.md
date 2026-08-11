@@ -18,7 +18,7 @@ Vyoma SLM safeguards your applications through a 4-stage activation lifecycle an
 ## 📋 Activation Lifecycle (4 Stages)
 
 Before integrating your code, ensure your environment completes the Vyoma SLM setup workflow:
-
+```text
 Stage 1: Online Portal ] ──► Define parameters (Domain, Products, Users) & Generate License Code
 │
 [ Stage 2: Client Server ] ──► Download & Install Guard Client on your application server
@@ -48,6 +48,7 @@ Stage 1: Online Portal ] ──► Define parameters (Domain, Products, Users) &
 ## 📁 Repository Structure
 
 Find ready-to-use code boilerplates in the `/templates` folder matching your application stack:
+```text
 ├── docs/                      # Architectural setup & local Guard API spec
 ├── templates/                 # Ready-to-use middleware & wrappers
 │   ├── nodejs/                # Express / Node.js API Guard middleware
