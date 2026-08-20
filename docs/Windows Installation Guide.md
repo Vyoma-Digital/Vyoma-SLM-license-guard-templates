@@ -5,7 +5,7 @@ License Management Windows Client Installation Manual
 | Vyoma Digital | 4/22/25 |     |
 | ------------- | ------- | --- |
 
-LMS Proxy Installation & Configuration Guide
+SLM Proxy Installation & Configuration Guide
 
 This document provides clear step-by-step instructions to install, configure, and run the LMS Proxy application on **Windows**. This proxy enables transparent redirection of HTTP(S) traffic for LMS license validation and request forwarding.
 
