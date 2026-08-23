@@ -5,6 +5,8 @@ This repository guides users on ways to integrate Vyoma SaaS Licence Manager's G
 Welcome to the official code templates and integration guide for **Vyoma SaaS License Manager (SLM) Guard Client**. This repository provides starter code, API request samples, and integration patterns to help software vendors easily connect their applications and products to the Vyoma SLM Guard Client.
 
 ---
+<img src="landing_pg.jpg" alt="Landing Page" width="100%">
+---
 
 ## 🚀 Quick Overview
 
