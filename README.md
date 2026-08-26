@@ -39,7 +39,7 @@ Stage 1: Online Portal ] ──► Define parameters (Domain, Products, Users) &
 [ Stage 3: Exchange C2V/V2C] ──► Upload C2V to Portal ──► Download V2C ──► Apply to Client App
 │
 [ Stage 4: Enforcement ]   ──► Protect App via Proxy Mode OR API Integration
-
+```
 1. **Stage 1: Registration & License Generation (Online)**
    * Purchase a plan on the Vyoma SaaS Portal.
    * Define your target Domain, Product URLs, and User List, then click **Generate License Code**.
@@ -56,7 +56,7 @@ Stage 1: Online Portal ] ──► Define parameters (Domain, Products, Users) &
 4. **Stage 4: License Enforcement**
    * Enforce restrictions directly via your application using the API Guard endpoints below.
 
----
+--- 
 
 ## 📁 Repository Structure
 
