@@ -1,6 +1,6 @@
 Vyoma Digital
 
-Linux LMS Client Installation Guide
+Linux SLM Client Installation Guide
 
 | Vyoma Digital | 4/22/25 |     |
 | ------------- | ------- | --- |
