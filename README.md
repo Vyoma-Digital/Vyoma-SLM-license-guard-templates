@@ -2,7 +2,7 @@
 This repository guides users on ways to integrate Vyoma SaaS Licence Manager's Guard Client with their Products  or Applications
 ---
 <p>
-  Please sponsor this project. It is associated with <a href="https://github.com/prais1/YogLMS_22Feb2025" target="_blank" rel="noopener noreferrer">YogLMS_22Feb2025</a> — a developer template for configuring product security guards on-premise or in the cloud.
+  Please sponsor this project. It is a developer template for configuring product security guards on-premise or in the cloud, associated with <a href="https://github.com/prais1/YogLMS_22Feb2025" target="_blank" rel="noopener noreferrer">YogLMS_22Feb2025</a>
 </p>
 
 <a href="https://rzp.io/l/your-razorpay-link" target="_blank" rel="noopener noreferrer">
