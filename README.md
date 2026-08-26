@@ -5,7 +5,7 @@ This repository guides users on ways to integrate Vyoma SaaS Licence Manager's G
   Please sponsor this project. It is a developer template for configuring product security guards on-premise or in the cloud, associated with <a href="https://github.com/prais1/YogLMS_22Feb2025" target="_blank" rel="noopener noreferrer">YogLMS_22Feb2025</a>
 </p>
 
-<a href="https://rzp.io/l/your-razorpay-link" target="_blank" rel="noopener noreferrer">
+<a href="https://razorpay.me/@yogsystems?amount=zgioswZa9n4qt5x9yD7i%2BQ%3D%3D" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/Sponsor-Razorpay-blue" alt="Sponsor via Razorpay">
 </a>
 
