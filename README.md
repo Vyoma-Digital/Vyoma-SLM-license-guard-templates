@@ -1,5 +1,15 @@
 # Vyoma-SLM-license-guard-templates
 This repository guides users on ways to integrate Vyoma SaaS Licence Manager's Guard Client with their Products  or Applications
+---
+<p>
+  Please sponsor this project. It is associated with <a href="https://github.com/prais1/YogLMS_22Feb2025" target="_blank" rel="noopener noreferrer">YogLMS_22Feb2025</a> — a developer template for configuring product security guards on-premise or in the cloud.
+</p>
+
+<a href="https://rzp.io/l/your-razorpay-link" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/Sponsor-Razorpay-blue" alt="Sponsor via Razorpay">
+</a>
+
+---
 # Vyoma SLM License Guard Integration Templates
 
 Welcome to the official code templates and integration guide for **Vyoma SaaS License Manager (SLM) Guard Client**. This repository provides starter code, API request samples, and integration patterns to help software vendors easily connect their applications and products to the Vyoma SLM Guard Client.
