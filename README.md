@@ -101,9 +101,7 @@ JSON
   }
 }
 💬 Getting Support & Contributing
-Questions or Issues? Open a discussion on the 
-<a href="https://discord.gg/AwGMJFjueV" target="_blank">Join Discord</a>
-
-Request a Template: Need an integration template for a different framework? Open an Issue with the tag template-request.
-
-Official Documentation: Learn more at the a href="https://slm.vyoma.digital/Resources/Guides/LicenseManagerUserGuide" target="_blank">Vyoma SLM Documentation Hub.</a>
+```
+* **Questions or Issues?** Open a discussion on the [Join Discord](https://discord.gg/AwGMJFjueV).
+* **Request a Template:** Need an integration template for a different framework? Open an Issue with the tag `template-request`.
+* **Official Documentation:** Learn more at the [Vyoma SLM Documentation Hub](https://slm.vyoma.digital/Resources/Guides/LicenseManagerUserGuide).
